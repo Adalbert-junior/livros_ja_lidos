@@ -7,7 +7,7 @@ Trabalho final de **Desenvolvimento Mobile I** (Unilavras, 2º semestre de 2026)
 
 **Feito por:** Adalbert.
 
-**Versão online:** <https://lido-tau.vercel.app>
+**Versão online:** **Repositório:** https://github.com/Adalbert-junior/livros_ja_lidos
 
 ## O que o app faz
 
